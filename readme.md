@@ -1,5 +1,7 @@
-# creating a todo app using react js and Ecma Script 6(ES6)
+# creating a todo app using react js and Ecma Script 6(ES6) in Bangla
 
+
+-----
 # ES6
 
 ### new assignment keyword
