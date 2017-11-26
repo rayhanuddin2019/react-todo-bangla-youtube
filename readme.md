@@ -68,7 +68,7 @@ import Hello from './Hello.js';
 
 # react js
 
-### Basic structure (Here destructuring Component). `render` have to be used
+### Basic structure (Here destructuring Component). `render` is must use function in side class which extends Component
 ~~~js
 import React, { Component } from 'react';
 
@@ -132,12 +132,4 @@ _deleteTodo = (td) => {
 ~~~js
 
 ~~~
-### to read todo I have used array map function 
-
-~~~js
-
-~~~
-
-
-
 
